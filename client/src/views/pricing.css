@@ -1,0 +1,23 @@
+.pricing-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pricing-container1 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.pricing-background-image {
+  left: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: 219px;
+  position: absolute;
+  object-fit: cover;
+}

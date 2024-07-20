@@ -1,0 +1,9 @@
+.app-component-container {
+  display: flex;
+  position: relative;
+}
+.app-component-iframe {
+  width: 512px;
+  height: 349px;
+  align-self: flex-start;
+}
